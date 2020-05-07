@@ -1,0 +1,83 @@
+
+
+
+main {
+
+    background-size:960px ;
+    background-image: url('../images/bg-2.png');
+
+    overflow: hidden;
+    
+}
+
+section {
+    padding-top: 50px;
+    width: 60%;
+    float:left;
+    overflow: hidden;
+}
+
+.producto {
+    margin: 10px 5px 40px 5px;
+    width: 361px;
+    float: left;
+}
+
+div {
+    width: 40%;
+    float: right;
+}
+
+article {
+
+    background-size: 300px;
+    margin: 10px;
+    
+}
+
+
+section article  {
+
+    text-align: center;
+    font-size: 12px;
+    float:left;
+
+    
+}
+
+div article p{
+
+    text-align: center;
+
+    font-size:14px;
+}
+h4{
+    text-align: center;
+}
+footer {
+    background-size: 960px;
+    background-color: cornflowerblue;
+    color:white;
+    clear:both
+}
+
+header{
+    background-size: 960px;
+    background-color: cornflowerblue;   
+    padding: 20px 20px 30px 20px;
+}
+ 
+header span {
+    color: white;
+    margin: 50px 20px;
+    
+    
+}
+
+
+.right {
+
+    margin-left: 450px ;
+    
+
+}
